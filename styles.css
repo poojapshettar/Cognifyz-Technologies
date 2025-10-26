@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Task 3: Responsive Design */
+@media (max-width: 600px) {
+  body {
+    background-color: #e6f7ff;
+  }
+}
+
+/* Form Styling */
+form {
+  border: 2px solid #ccc;
+  padding: 15px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+input {
+  margin: 5px 0;
+  padding: 5px;
+  width: 100%;
+}
+
+#message {
+  color: red;
+  font-weight: bold;
+}

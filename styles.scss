@@ -1,0 +1,10 @@
+$main-color: #6a0dad;
+$text-color: white;
+
+body {
+  background-color: $main-color;
+  h1 {
+    color: $text-color;
+    text-align: center;
+  }
+}
